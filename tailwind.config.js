@@ -9,6 +9,6 @@ module.exports = {
   theme: {
     extend: {},
   },
-  darkMode: "dark",
+  darkMode: "class",
   plugins: [nextui()]
 }
